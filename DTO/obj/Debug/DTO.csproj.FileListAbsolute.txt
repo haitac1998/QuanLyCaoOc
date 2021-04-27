@@ -1,0 +1,17 @@
+C:\New folder\PT1\DATH\QuanLyCaoOc\QuanLyCaoOc\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\New folder\PT1\DATH\QuanLyCaoOc\QuanLyCaoOc\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\New folder\PT1\DATH\QuanLyCaoOc\QuanLyCaoOc\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+C:\New folder\PT1\DATH\QuanLyCaoOc\QuanLyCaoOc\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\New folder\PT1\DATH\QuanLyCaoOc\QuanLyCaoOc\DTO\bin\Debug\DTO.dll.config
+C:\New folder\PT1\DATH\QuanLyCaoOc\QuanLyCaoOc\DTO\bin\Debug\DTO.dll
+C:\New folder\PT1\DATH\QuanLyCaoOc\QuanLyCaoOc\DTO\bin\Debug\DTO.pdb
+C:\New folder\PT1\DATH\QuanLyCaoOc\QuanLyCaoOc\DTO\obj\Debug\DTO.dll
+C:\New folder\PT1\DATH\QuanLyCaoOc\QuanLyCaoOc\DTO\obj\Debug\DTO.pdb
+C:\FinalProject\QuanLyCaoOc\DTO\bin\Debug\DTO.dll.config
+C:\FinalProject\QuanLyCaoOc\DTO\bin\Debug\DTO.dll
+C:\FinalProject\QuanLyCaoOc\DTO\bin\Debug\DTO.pdb
+C:\FinalProject\QuanLyCaoOc\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\FinalProject\QuanLyCaoOc\DTO\obj\Debug\DTO.Properties.Resources.resources
+C:\FinalProject\QuanLyCaoOc\DTO\obj\Debug\DTO.csproj.GenerateResource.cache
+C:\FinalProject\QuanLyCaoOc\DTO\obj\Debug\DTO.dll
+C:\FinalProject\QuanLyCaoOc\DTO\obj\Debug\DTO.pdb

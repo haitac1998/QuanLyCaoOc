@@ -1,0 +1,8 @@
+C:\FinalProject\QuanLyCaoOc\DTO\bin\Release\DTO.dll.config
+C:\FinalProject\QuanLyCaoOc\DTO\bin\Release\DTO.dll
+C:\FinalProject\QuanLyCaoOc\DTO\bin\Release\DTO.pdb
+C:\FinalProject\QuanLyCaoOc\DTO\obj\Release\DTO.Properties.Resources.resources
+C:\FinalProject\QuanLyCaoOc\DTO\obj\Release\DTO.csproj.GenerateResource.cache
+C:\FinalProject\QuanLyCaoOc\DTO\obj\Release\DTO.dll
+C:\FinalProject\QuanLyCaoOc\DTO\obj\Release\DTO.pdb
+C:\FinalProject\QuanLyCaoOc\DTO\obj\Release\DTO.csprojAssemblyReference.cache
